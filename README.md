@@ -1,5 +1,5 @@
 # 💫 About Me:
-Third-year Information Technology student passionate about building impactful full-stack solutions and exploring AR/VR domains.<br> I leverage strong problem-solving abilities and programming expertise (Java and other languages) to develop innovative projects.<br>
+Hi, I'm Shreya, a third-year Information Technology student passionate about building impactful full-stack solutions and exploring AR/VR domains.<br> I leverage strong problem-solving abilities and programming expertise (Java and other languages) to develop innovative projects.<br>
 
 # 👩‍💻 Projects I have worked on:
 **AR/VR Museum Experience - Maharshi Karve Museum Pune**  
